@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホワイトイノセンス",
+  "base_artist": "なみだ色の消しごむ",
+  "createdAt": "2026-03-02T14:27:36.665884Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホワイトイノセンス",
+      "artist": "なみだ色の消しごむ",
+      "has_synced": false,
+      "path": "select/pl_01_ホワイトイノセンス_なみだ色の消しごむ.txt"
+    }
+  ]
+}
